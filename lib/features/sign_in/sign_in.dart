@@ -1,0 +1,1 @@
+export 'package:wallet_manager/features/sign_in/view/sign_in_view.dart';
